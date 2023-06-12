@@ -1,0 +1,22 @@
+body {
+    background-color: yellow;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(192, 176, 4);
+    padding: 10px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
